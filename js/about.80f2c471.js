@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpcb_analyzer"]=self["webpackChunkpcb_analyzer"]||[]).push([[594],{6409:function(n,a,u){u.r(a),u.d(a,{default:function(){return i}});var e=u(6768);const r={class:"about"};function t(n,a){return(0,e.uX)(),(0,e.CE)("div",r,[...a[0]||(a[0]=[(0,e.Lk)("h1",null,"This is an about page",-1)])])}var c=u(1241);const s={},l=(0,c.A)(s,[["render",t]]);var i=l}}]);
+//# sourceMappingURL=about.80f2c471.js.map
